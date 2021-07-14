@@ -1,0 +1,14 @@
+spider.c:12:6:homing	24	static
+spider.c:59:6:stop	24	static
+spider.c:68:6:servoControl	16	static
+spider.c:74:6:legControl	24	static
+spider.c:139:10:getPosition	16	static
+spider.c:149:6:sit	16	static
+spider.c:164:6:stand	16	static
+spider.c:334:6:forward_walk	8	static
+spider.c:463:6:servoService	40	static
+spider.c:489:6:setPosition	48	static
+spider.c:512:6:waitReach	16	static
+spider.c:525:6:waitAllReach	16	static
+spider.c:535:6:cartesian_to_polar	56	static
+spider.c:556:6:polar_to_servo	32	static

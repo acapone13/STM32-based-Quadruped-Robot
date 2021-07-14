@@ -1,0 +1,6 @@
+uart_dma.c:11:6:UARTDMA_UART_IRQHandler	24	static
+uart_dma.c:27:6:UARTDMA_DMA_IRQHandler	40	static
+uart_dma.c:75:5:UARTDMA_GetCharFromBuffer	16	static
+uart_dma.c:86:9:UARTDMA_IsDataReady	16	static
+uart_dma.c:98:5:UARTDMA_GetLineFromBuffer	24	static
+uart_dma.c:120:6:UARTDMA_Init	16	static
